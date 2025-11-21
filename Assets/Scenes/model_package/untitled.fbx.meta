@@ -1,0 +1,330 @@
+fileFormatVersion: 2
+guid: fb8c68283425add4a9b38281c43b6ce6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Girl Dancer
+    100004: Girl Dancer Skeleton
+    100006: Head
+    100008: HeadTop_End
+    100010: HeadTop_End_end
+    100012: Hips
+    100014: LeftArm
+    100016: LeftEye
+    100018: LeftEye_end
+    100020: LeftFoot
+    100022: LeftForeArm
+    100024: LeftHand
+    100026: LeftHandIndex1
+    100028: LeftHandIndex2
+    100030: LeftHandIndex3
+    100032: LeftHandIndex4
+    100034: LeftHandIndex4_end
+    100036: LeftHandMiddle1
+    100038: LeftHandMiddle2
+    100040: LeftHandMiddle3
+    100042: LeftHandMiddle4
+    100044: LeftHandMiddle4_end
+    100046: LeftHandPinky1
+    100048: LeftHandPinky2
+    100050: LeftHandPinky3
+    100052: LeftHandPinky4
+    100054: LeftHandPinky4_end
+    100056: LeftHandRing1
+    100058: LeftHandRing2
+    100060: LeftHandRing3
+    100062: LeftHandRing4
+    100064: LeftHandRing4_end
+    100066: LeftHandThumb1
+    100068: LeftHandThumb2
+    100070: LeftHandThumb3
+    100072: LeftHandThumb4
+    100074: LeftHandThumb4_end
+    100076: LeftLeg
+    100078: LeftShoulder
+    100080: LeftToe_End
+    100082: LeftToe_End_end
+    100084: LeftToeBase
+    100086: LeftUpLeg
+    100088: Light
+    100090: Mesh_0
+    100092: Microphone
+    100094: Microphone_mesh
+    100096: Neck
+    100098: RightArm
+    100100: RightEye
+    100102: RightEye_end
+    100104: RightFoot
+    100106: RightForeArm
+    100108: RightHand
+    100110: RightHandIndex1
+    100112: RightHandIndex2
+    100114: RightHandIndex3
+    100116: RightHandIndex4
+    100118: RightHandIndex4_end
+    100120: RightHandMiddle1
+    100122: RightHandMiddle2
+    100124: RightHandMiddle3
+    100126: RightHandMiddle4
+    100128: RightHandMiddle4_end
+    100130: RightHandPinky1
+    100132: RightHandPinky2
+    100134: RightHandPinky3
+    100136: RightHandPinky4
+    100138: RightHandPinky4_end
+    100140: RightHandRing1
+    100142: RightHandRing2
+    100144: RightHandRing3
+    100146: RightHandRing4
+    100148: RightHandRing4_end
+    100150: RightHandThumb1
+    100152: RightHandThumb2
+    100154: RightHandThumb3
+    100156: RightHandThumb4
+    100158: RightHandThumb4_end
+    100160: RightLeg
+    100162: RightShoulder
+    100164: RightToe_End
+    100166: RightToe_End_end
+    100168: RightToeBase
+    100170: RightUpLeg
+    100172: Spine
+    100174: Spine1
+    100176: Spine2
+    100178: SSTransform
+    100180: //RootNode
+    100182: Wolf3D_Avatar
+    100184: Wolf3D_Avatar.001
+    400000: Camera
+    400002: Girl Dancer
+    400004: Girl Dancer Skeleton
+    400006: Head
+    400008: HeadTop_End
+    400010: HeadTop_End_end
+    400012: Hips
+    400014: LeftArm
+    400016: LeftEye
+    400018: LeftEye_end
+    400020: LeftFoot
+    400022: LeftForeArm
+    400024: LeftHand
+    400026: LeftHandIndex1
+    400028: LeftHandIndex2
+    400030: LeftHandIndex3
+    400032: LeftHandIndex4
+    400034: LeftHandIndex4_end
+    400036: LeftHandMiddle1
+    400038: LeftHandMiddle2
+    400040: LeftHandMiddle3
+    400042: LeftHandMiddle4
+    400044: LeftHandMiddle4_end
+    400046: LeftHandPinky1
+    400048: LeftHandPinky2
+    400050: LeftHandPinky3
+    400052: LeftHandPinky4
+    400054: LeftHandPinky4_end
+    400056: LeftHandRing1
+    400058: LeftHandRing2
+    400060: LeftHandRing3
+    400062: LeftHandRing4
+    400064: LeftHandRing4_end
+    400066: LeftHandThumb1
+    400068: LeftHandThumb2
+    400070: LeftHandThumb3
+    400072: LeftHandThumb4
+    400074: LeftHandThumb4_end
+    400076: LeftLeg
+    400078: LeftShoulder
+    400080: LeftToe_End
+    400082: LeftToe_End_end
+    400084: LeftToeBase
+    400086: LeftUpLeg
+    400088: Light
+    400090: Mesh_0
+    400092: Microphone
+    400094: Microphone_mesh
+    400096: Neck
+    400098: RightArm
+    400100: RightEye
+    400102: RightEye_end
+    400104: RightFoot
+    400106: RightForeArm
+    400108: RightHand
+    400110: RightHandIndex1
+    400112: RightHandIndex2
+    400114: RightHandIndex3
+    400116: RightHandIndex4
+    400118: RightHandIndex4_end
+    400120: RightHandMiddle1
+    400122: RightHandMiddle2
+    400124: RightHandMiddle3
+    400126: RightHandMiddle4
+    400128: RightHandMiddle4_end
+    400130: RightHandPinky1
+    400132: RightHandPinky2
+    400134: RightHandPinky3
+    400136: RightHandPinky4
+    400138: RightHandPinky4_end
+    400140: RightHandRing1
+    400142: RightHandRing2
+    400144: RightHandRing3
+    400146: RightHandRing4
+    400148: RightHandRing4_end
+    400150: RightHandThumb1
+    400152: RightHandThumb2
+    400154: RightHandThumb3
+    400156: RightHandThumb4
+    400158: RightHandThumb4_end
+    400160: RightLeg
+    400162: RightShoulder
+    400164: RightToe_End
+    400166: RightToe_End_end
+    400168: RightToeBase
+    400170: RightUpLeg
+    400172: Spine
+    400174: Spine1
+    400176: Spine2
+    400178: SSTransform
+    400180: //RootNode
+    400182: Wolf3D_Avatar
+    400184: Wolf3D_Avatar.001
+    2000000: Camera
+    2100000: lambert2SG
+    2100002: Wolf3D_Avatar
+    2300000: Microphone_mesh
+    3300000: Microphone_mesh
+    4300000: Microphone_mesh
+    4300002: Mesh_0
+    7400000: SSTransform|PixCap Animation_Girl Dancer
+    7400002: SSTransform|PixCap Animation_Microphone
+    7400004: SSTransform|PixCap Animation_Microphone_mesh
+    7400006: SSTransform|PixCap Animation_SSTransform
+    7400008: SSTransform|PixCap Animation_Wolf3D_Avatar
+    7400010: SSTransform|PixCap Animation_Wolf3D_Avatar.001
+    7400012: Girl Dancer|PixCap Animation_Girl Dancer
+    7400014: Girl Dancer|PixCap Animation_Microphone
+    7400016: Girl Dancer|PixCap Animation_Microphone_mesh
+    7400018: Girl Dancer|PixCap Animation_SSTransform
+    7400020: Girl Dancer|PixCap Animation_Wolf3D_Avatar
+    7400022: Girl Dancer|PixCap Animation_Wolf3D_Avatar.001
+    7400024: Girl Dancer Skeleton|PixCap Animation_Girl Dancer
+    7400026: Girl Dancer Skeleton|PixCap Animation_Girl Dancer Skeleton
+    7400028: Girl Dancer Skeleton|PixCap Animation_Microphone
+    7400030: Girl Dancer Skeleton|PixCap Animation_Microphone_mesh
+    7400032: Girl Dancer Skeleton|PixCap Animation_SSTransform
+    7400034: Girl Dancer Skeleton|PixCap Animation_Wolf3D_Avatar
+    7400036: Girl Dancer Skeleton|PixCap Animation_Wolf3D_Avatar.001
+    7400038: Wolf3D_Avatar|PixCap Animation_Girl Dancer
+    7400040: Wolf3D_Avatar|PixCap Animation_Microphone
+    7400042: Wolf3D_Avatar|PixCap Animation_Microphone_mesh
+    7400044: Wolf3D_Avatar|PixCap Animation_SSTransform
+    7400046: Wolf3D_Avatar|PixCap Animation_Wolf3D_Avatar
+    7400048: Wolf3D_Avatar|PixCap Animation_Wolf3D_Avatar.001
+    7400050: Microphone|PixCap Animation_Girl Dancer
+    7400052: Microphone|PixCap Animation_Microphone
+    7400054: Microphone|PixCap Animation_Microphone_mesh
+    7400056: Microphone|PixCap Animation_SSTransform
+    7400058: Microphone|PixCap Animation_Wolf3D_Avatar
+    7400060: Microphone|PixCap Animation_Wolf3D_Avatar.001
+    7400062: Microphone_mesh|PixCap Animation_Girl Dancer
+    7400064: Microphone_mesh|PixCap Animation_Microphone
+    7400066: Microphone_mesh|PixCap Animation_Microphone_mesh
+    7400068: Microphone_mesh|PixCap Animation_SSTransform
+    7400070: Microphone_mesh|PixCap Animation_Wolf3D_Avatar
+    7400072: Microphone_mesh|PixCap Animation_Wolf3D_Avatar.001
+    7400074: Wolf3D_Avatar.001|PixCap Animation_Girl Dancer
+    7400076: Wolf3D_Avatar.001|PixCap Animation_Microphone
+    7400078: Wolf3D_Avatar.001|PixCap Animation_Microphone_mesh
+    7400080: Wolf3D_Avatar.001|PixCap Animation_SSTransform
+    7400082: Wolf3D_Avatar.001|PixCap Animation_Wolf3D_Avatar
+    7400084: Wolf3D_Avatar.001|PixCap Animation_Wolf3D_Avatar.001
+    9500000: //RootNode
+    10800000: Light
+    13700000: Mesh_0
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
