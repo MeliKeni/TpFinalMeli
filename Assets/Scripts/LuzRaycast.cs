@@ -9,9 +9,11 @@ public class LuzRaycast : MonoBehaviour
     public bool zonaActivada = false;
     private bool raycastActivo = false;
     private float timer = 0f;
+public GameObject lucesActivas;
+
     void Start()
     {
-        
+        lucesActivas.SetActive(false);
     }
 
     // Update is called once per frame
@@ -23,7 +25,7 @@ public class LuzRaycast : MonoBehaviour
         Debug.DrawRay(transform.position, transform.forward * distancia, Color.red);
 
         RaycastHit hit;
-
+        zonaActivada =false;
         if (Physics.Raycast(transform.position, transform.forward, out hit, distancia))
         {
             zonaActivada=true;
@@ -34,13 +36,16 @@ public class LuzRaycast : MonoBehaviour
             {
                 raycastActivo = false;
                 zonaActivada = false;
+                lucesActivas.SetActive(false);
+
             }
         }
     }
       public void ActivarRayo()
     {
+               lucesActivas.SetActive(true);
+ 
         raycastActivo = true;
-        zonaActivada = true;
         timer = 5f;
     }
 }
