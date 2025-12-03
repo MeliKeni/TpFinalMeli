@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class DetectorPiso : MonoBehaviour
 {
-    public LuzRaycast RaycastScript;   // arrastrás el objeto ZonaSalto en el inspector
+    public LuzRaycast RaycastScript;   
     public bool enElPiso = false;
         private Rigidbody rb;
             public float force = 5f;
